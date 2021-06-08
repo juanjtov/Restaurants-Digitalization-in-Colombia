@@ -2,7 +2,7 @@
 Due to the covid-19 pandemic, many industries had to do evolve as fast as they could to adap to the new situation.
 
 <p>
-    <img src="https://drive.google.com/uc?export=view&id=11Z7Qyygw9Cuk_fuQdhZ8IKEJqS6gF27N" width="750" height="240"/>
+    <img src="https://drive.google.com/uc?export=view&id=11Z7Qyygw9Cuk_fuQdhZ8IKEJqS6gF27N"/>
 </p>
 
 
