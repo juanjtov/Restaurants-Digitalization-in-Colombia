@@ -1,7 +1,7 @@
 # Restaurants-Digitalization-in-Colombia
 
 <p>
-    <img src="https://drive.google.com/uc?export=view&id=1F_IsHgym-31mmAm35347-_2w5awpFtNT/ />
+    <img src="https://drive.google.com/uc?export=view&id=1F_IsHgym-31mmAm35347-_2w5awpFtNT />
 </p>
 
 Due to the covid-19 pandemic, many industries had to do evolve as fast as they could to adap to the new situation.
